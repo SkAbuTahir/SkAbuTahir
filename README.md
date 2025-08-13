@@ -27,7 +27,7 @@ Jalpaiguri Government Engineering College (JGEC) | *Expected Graduation: 2028*
 ---
 
 ## **PROJECTS**
-### [React To-Do App](#) | [Live Demo](#)
+### [React To-Do App](#) | [Live Demo](#) https://react-todo-app-six-lime-28.vercel.app/
 - Built with component-based architecture and state management using React and Tailwind CSS, deployed on Vercel.
 
 ### [Weather App](#)
