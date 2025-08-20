@@ -19,7 +19,7 @@ Jalpaiguri Government Engineering College (JGEC) | *Expected Graduation: 2028*
 
 ## **TECHNICAL SKILLS**
 - **Languages:** HTML, CSS, JavaScript, C++, C, Python  
-- **Frameworks & Libraries:** React, Node.js, Express.js, Tailwind CSS, Next.js  
+- **Frameworks & Libraries:** React, Node.js, Express.js, Bootstrap, Tailwind CSS, Next.js  
 - **Databases:** MongoDB  
 - **Tools & Platforms:** Git, GitHub, Postman, GitHub Pages, Vercel, ngrok  
 - **Other:** APIs, JSON, Responsive Design
