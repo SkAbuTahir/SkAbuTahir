@@ -47,15 +47,15 @@ Fetches real-time weather data from an API, featuring **location-based search an
 
 ### 🎮 Snake Water Gun Game
 A web-based game implemented in **vanilla JavaScript** with interactive UI elements.  
-🔗 [Repo](https://github.com/SkAbuTahir/snake-water-gun-game)
+🔗 [Repo](https://github.com/SkAbuTahir/Snake-Water-Gun-game)
 
 ### 🎬 Netflix Frontend Clone
 Pixel-perfect **UI clone of Netflix’s homepage** using HTML & CSS.  
-🔗 [Repo](https://github.com/SkAbuTahir/netflix-clone)
+🔗 [Repo](https://github.com/SkAbuTahir/Netflix_frontend_clone-html-css)
 
 ### 💖 “Will You Be My Valentine” App
 A fun, interactive app built using **HTML, CSS, JS, and Node.js backend** for user responses.  
-🔗 [Repo](https://github.com/SkAbuTahir/valentine-app)
+🔗 [Repo](https://github.com/SkAbuTahir/usingExpress-willYouBeMyValentine)
 
 
 ---
