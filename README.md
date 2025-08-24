@@ -20,7 +20,7 @@ A comprehensive business dashboard built with **Next.js, React Bootstrap, and Ta
 - 🔐 Role-based secure authentication (Admin, Manager, Employee)
 - 🌩️ Vercel-ready deployment, easily customizable & extendable
 
-This all-in-one solution centralizes operations for maximum efficiency and growth.
+This all-in-one solution centralizes operations for maximum efficiency and growth. (I made it for iisppr as i am working as a internt there but it also comes under my personal project.Core idea was teken from ChatGPT. Built with LOVE)
 
 ---
 
