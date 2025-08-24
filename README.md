@@ -1,70 +1,81 @@
-content = """# SK ABU TAHIR
+# 👋 Hi, I’m Sk Abu Tahir
 
-📱 **+91 9903470754** | 📧 **36abustudy@gmail.com**  
-🔗 [GitHub](https://github.com/SkAbuTahir) | [LinkedIn](https://www.linkedin.com/in/sk-abu-tahir-)  
-📍 **Jalpaiguri, West Bengal (College)** | **Barasat, North 24 Parganas, West Bengal (Home)**  
-
----
-
-## **SUMMARY**
-Motivated and enthusiastic 2nd-year B.Tech Information Technology student with a strong foundation in web development. Skilled in building responsive, user-friendly web applications using modern technologies like React, Node.js, and Tailwind CSS. Passionate about creating polished UI/UX experiences and eager to apply skills in a real-world professional setting through a paid internship.
+📍 Jalpaiguri, West Bengal (College) | Barasat, North 24 Parganas, West Bengal (Home)  
+📧 36abustudy@gmail.com | 📱 +91 9903470754  
+🔗 [GitHub](https://github.com/SkAbuTahir) | [LinkedIn](https://www.linkedin.com/in/sk-abu-tahir-)
 
 ---
 
-## **EDUCATION**
-**Bachelor of Technology – Information Technology**  
-Jalpaiguri Government Engineering College (JGEC) | *Expected Graduation: 2028*
+## 🚀 Featured Project: Client Management System (ClientPro)
+
+[Live Demo (click here)](https://new-client-management-system-vercel-plum.vercel.app/) | [Repository](https://github.com/SkAbuTahir/New_Client-Management-System_Vercel)
+
+A comprehensive business dashboard built with **Next.js, React Bootstrap, and Tailwind CSS**, designed for streamlined client management and real-time business analytics.
+
+- 📈 Real-time dashboard with KPIs and analytics
+- 🗂 Complete client profile database (add/edit/delete, advanced search)
+- 💬 Communication tracking for meetings, emails & calls with reminders
+- 📋 Assign projects to clients, track status & deadlines with visual progress
+- 🧾 Generate/manage invoices, monitor payments, track revenue
+- 🔐 Role-based secure authentication (Admin, Manager, Employee)
+- 🌩️ Vercel-ready deployment, easily customizable & extendable
+
+This all-in-one solution centralizes operations for maximum efficiency and growth.
 
 ---
 
-## **TECHNICAL SKILLS**
-- **Languages:** HTML, CSS, JavaScript, C++, C, Python  
-- **Frameworks & Libraries:** React, Node.js, Express.js, Bootstrap, Tailwind CSS, Next.js  
-- **Databases:** MongoDB  
-- **Tools & Platforms:** Git, GitHub, Postman, GitHub Pages, Vercel, ngrok  
-- **Other:** APIs, JSON, Responsive Design
+## 🛠️ Technical Skills
+
+**Languages:** HTML, CSS, JavaScript (ES6+), C++, C, Python  
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, Vercel, Postman, ngrok  
+**Specialties:** Responsive Design, API Integration, UI/UX Prototyping
 
 ---
 
-## **PROJECTS**
-### React To-Do App  
-- Built with component-based architecture and state management using React and Tailwind CSS, deployed on Vercel.  
+## 📂 Other Featured Projects
+
+### ✅ React To-Do App
+A simple yet elegant app with **state management in React** and styled using **Tailwind CSS**.  
 🔗 [Live Demo](https://react-todo-app-six-lime-28.vercel.app/) | [Repo](https://github.com/SkAbuTahir/react-todo-app)
 
-### Weather App  
-- Developed a responsive weather application using React.js, integrated with a public weather API to fetch real-time weather data, featuring location-based search, dynamic temperature and condition updates, and a clean, user-friendly interface.  
+### 🌦 Weather App
+Fetches real-time weather data from an API, featuring **location-based search and dynamic UI updates**.  
 🔗 [Live Demo](https://react-weather-app-ten-peach.vercel.app/) | [Repo](https://github.com/SkAbuTahir/react-weather-app)
 
-### Snake Water Gun Game  
-- Implemented core game logic and interactive UI using HTML, CSS, and JavaScript.  
+### 🎮 Snake Water Gun Game
+A web-based game implemented in **vanilla JavaScript** with interactive UI elements.  
 🔗 [Repo](https://github.com/SkAbuTahir/snake-water-gun-game)
 
-### Netflix Frontend Clone  
-- Replicated Netflix UI using HTML and CSS with pixel-perfect responsive design.  
+### 🎬 Netflix Frontend Clone
+Pixel-perfect **UI clone of Netflix’s homepage** using HTML & CSS.  
 🔗 [Repo](https://github.com/SkAbuTahir/netflix-clone)
 
-### “Will You Be My Valentine” App  
-- Designed a playful interactive app using HTML, CSS, and JavaScript, integrated with a Node.js and Express server to store user responses (Yes/No), featuring creative animations and interaction flow.  
+### 💖 “Will You Be My Valentine” App
+A fun, interactive app built using **HTML, CSS, JS, and Node.js backend** for user responses.  
 🔗 [Repo](https://github.com/SkAbuTahir/valentine-app)
 
-### Next.js To-Do App with Animations (In Progress)  
-- Developing a modern task management app with Next.js and Tailwind CSS, focusing on smooth animations, responsive design, and enhanced user experience.  
-🔗 [Repo](https://github.com/SkAbuTahir/nextjs-todo-app)
 
 ---
 
-## **EXTRACURRICULAR ACTIVITIES**
-- **Active Member**, JGEC Coders Club – Participate in coding challenges and collaborative projects.  
-- **Robo-Soccer Competition** – Built a Bluetooth-controlled car to compete in a “Rocket League” style soccer game, integrating hardware and software.
+## 🏆 Achievements & Activities
+
+- 🏅 Medals in **NSO, IMO, IEO** (School-level Olympiads)
+- 🎖 3-time topper in **Britti Examination (Class 6–8)**
+- 🤖 Built a **Bluetooth-controlled RoboCar** for Robo-Soccer competition
+- 👨‍💻 Active member of **JGEC Coders Club** (Hackathons & coding challenges)
 
 ---
 
-## **ACHIEVEMENTS & AWARDS**
-- Won multiple Gold, Silver, and Bronze medals in NSO, IMO, and IEO during Classes 6–8.  
-- 3-time topper in Britti Examination during Classes 6–8.  
-"""
+## 📈 Current Goals
 
-with open("/mnt/data/Sk_Abu_Tahir_Resume.md", "w", encoding="utf-8") as f:
-    f.write(content)
+- Master **Next.js, authentication, and API integrations**
+- Work on **open-source contributions**
+- Land a **paid internship during Puja vacation**
+- Explore **AI + Web development projects**
 
-"/mnt/data/Sk_Abu_Tahir_Resume.md"
+---
+
+⭐️ From [SkAbuTahir](https://github.com/SkAbuTahir)
