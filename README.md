@@ -26,7 +26,13 @@ A comprehensive business dashboard built with **Next.js, React Bootstrap, and Ta
 ## 📂 Other Major Projects
 
 ### 🏢 Product Management System  
-A web-based product management platform with add/edit/delete functionalities and user-friendly UI.  
+A scalable product management platform leveraging **Aiven** for the backend infrastructure and powerful, secure **CRUD (Create, Read, Update, Delete) operations** with **MySQL**. Purpose-built for reliability, the project makes product data management seamless through a modern, user-friendly interface.
+
+- Fully managed backend powered by Aiven for seamless database orchestration and reduced infrastructure overhead  
+- MySQL database integration ensures fast, stable, and secure data storage for all CRUD tasks  
+- Add, edit, and delete products effortlessly with real-time data updates  
+- Architected for easy extensibility to accommodate future business logic or integrations
+
 🔗 [Live Demo](https://product-management-system-opal-seven.vercel.app/) | [Repository](https://github.com/SkAbuTahir/Product-Management-system-)
 
 ### ✅ React To-Do App  
